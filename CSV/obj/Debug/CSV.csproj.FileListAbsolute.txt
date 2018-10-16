@@ -1,0 +1,7 @@
+C:\Users\Diego\Desktop\School\programeren\random probeersel\CSV\CSV\obj\Debug\CSV.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\School\programeren\random probeersel\CSV\CSV\obj\Debug\CSV.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\School\programeren\random probeersel\CSV\CSV\bin\Debug\CSV.pdb
+C:\Users\Diego\Desktop\School\programeren\random probeersel\CSV\CSV\obj\Debug\CSV.pdb
+C:\Users\Diego\Desktop\School\programeren\random probeersel\CSV\CSV\bin\Debug\CSV.exe.config
+C:\Users\Diego\Desktop\School\programeren\random probeersel\CSV\CSV\bin\Debug\CSV.exe
+C:\Users\Diego\Desktop\School\programeren\random probeersel\CSV\CSV\obj\Debug\CSV.exe

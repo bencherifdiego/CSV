@@ -21,6 +21,10 @@ namespace CSV
             P2Name = Console.ReadLine();
 
             SaveNames.Save();
+
+            ReplaceName.main();
+
+            Console.ReadKey();
         }
     }
 }

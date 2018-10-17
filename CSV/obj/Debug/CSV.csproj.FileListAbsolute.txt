@@ -5,3 +5,10 @@ C:\Users\Diego\Desktop\School\programeren\random probeersel\CSV\CSV\obj\Debug\CS
 C:\Users\Diego\Desktop\School\programeren\random probeersel\CSV\CSV\bin\Debug\CSV.exe.config
 C:\Users\Diego\Desktop\School\programeren\random probeersel\CSV\CSV\bin\Debug\CSV.exe
 C:\Users\Diego\Desktop\School\programeren\random probeersel\CSV\CSV\obj\Debug\CSV.exe
+F:\School\programeren\random probeersel\CSV\CSV\obj\Debug\CSV.csprojAssemblyReference.cache
+F:\School\programeren\random probeersel\CSV\CSV\obj\Debug\CSV.csproj.CoreCompileInputs.cache
+F:\School\programeren\random probeersel\CSV\CSV\obj\Debug\CSV.exe
+F:\School\programeren\random probeersel\CSV\CSV\obj\Debug\CSV.pdb
+F:\School\programeren\random probeersel\CSV\CSV\bin\Debug\CSV.exe.config
+F:\School\programeren\random probeersel\CSV\CSV\bin\Debug\CSV.exe
+F:\School\programeren\random probeersel\CSV\CSV\bin\Debug\CSV.pdb

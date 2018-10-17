@@ -9,18 +9,22 @@ namespace CSV
 {
     class ReplaceName
     {
-        public void check()
+        public static void main()
         {
-            var csvLines = File.ReadAllLines(SaveNames.path);
-
-            foreach (var line in csvLines)
+            using (StreamReader sr = new StreamReader(SaveNames.path))
             {
-                var values = line.Split(';');
-                if (values[0].Contains(form2value))
-                {
+                string line;
 
-                }
+                while ((line = sr.ReadLine()) != null)
+	            {
+                    string[] parts = line.Split(';');
+
+                    string P1 = parts[0];
+
+                    Console.WriteLine(P1);
+	            }
             }
         }
+        
     }
 }

@@ -24,6 +24,8 @@ namespace CSV
 
             ReplaceName.main();
 
+            ReplaceName.ChangeRow();
+
             Console.ReadKey();
         }
     }

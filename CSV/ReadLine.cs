@@ -7,13 +7,13 @@ using System.IO;
 
 namespace CSV
 {
-    class ReplaceName
+    class ReadLine
     {
-        public static void main()
+        public static void ReadRow()
         {
             var reader = new StreamReader(File.OpenRead(SaveNames.path));
             var data = new List<List<string>>();
-
+        
             while (!reader.EndOfStream)
             {
                 var line = reader.ReadLine();
@@ -22,12 +22,11 @@ namespace CSV
                 data.Add(new List<String> { values[0], values[1]
                 });
             }
-            reader.Close();
 
-            string delimiter = ";";
-
-            string createText = data[0][0] + delimiter + data[0][1] + Environment.NewLine + Program.P1Name + delimiter + Program.P2Name;
-            File.WriteAllText(SaveNames.path, createText);
+            //first [x] is row
+            //second [x] is collumn
+            Console.WriteLine(data[1][0]); //  -> userid1
+            Console.WriteLine(data[1][1]); //  -> password1
         }
     }
 }

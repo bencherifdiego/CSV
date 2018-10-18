@@ -20,11 +20,11 @@ namespace CSV
             Console.WriteLine("Enter Name of Player 2");
             P2Name = Console.ReadLine();
 
-            SaveNames.Save();
+            //SaveNames.Save();
 
             ReplaceName.main();
 
-            ReplaceName.ChangeRow();
+            ReadLine.ReadRow();
 
             Console.ReadKey();
         }
